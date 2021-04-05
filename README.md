@@ -48,7 +48,3 @@ Content-Length: 0
 
 `github.com/dgrijalva/jwt-go` での実装。サービスに伝えるための userID を claims に含める形での実装。
 （本には ID やロールなどとあったため, 本来ロールも含めてもいいのかも）
-
-## 動いてるとこ
-
-https://user-images.githubusercontent.com/10706586/113572432-26a91800-9653-11eb-9b70-b5e5a681ca5c.mov
